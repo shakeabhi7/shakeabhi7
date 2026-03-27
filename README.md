@@ -22,7 +22,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ---
-📫 Connect: [LinkedIn](www.linkedin.com/in/shakeabhi) | [Email](mailto:kumarabhishekt7@gmail.com)
+📫 Connect: [LinkedIn] www.linkedin.com/in/shakeabhi | [Email](mailto:kumarabhishekt7@gmail.com)
 
 
 
