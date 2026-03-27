@@ -10,8 +10,8 @@
 
 | Project | Tech | Highlight |
 |---------|------|-----------|
-| [Credit Risk Scoring]((https://github.com/shakeabhi7/credit_risk_score)) | XGBoost, FastAPI, Docker | AUC 0.87 |
-| [Customer Lifetime Value]((https://github.com/shakeabhi7/clv_project)) | Random Forest, FastAPI | 70% time reduction |
+| [Credit Risk Scoring]([(https://github.com/shakeabhi7/credit_risk_score)]) | XGBoost, FastAPI, Docker | AUC 0.87 |
+| [Customer Lifetime Value]([(https://github.com/shakeabhi7/clv_project)]) | Random Forest, FastAPI | 70% time reduction |
 
 ## 🛠 Tech Stack
 
