@@ -2,7 +2,7 @@
 
 🔭 ML Engineer & Data Scientist | Building production-ready ML systems
 🛠 Stack: Python · XGBoost · FastAPI · Docker · MLflow · MongoDB
-📍 Delhi, India | Open to ML Engineer & Data Scientist roles
+📍 Delhi, India 
 
 ---
 
@@ -10,8 +10,8 @@
 
 | Project | Tech | Highlight |
 |---------|------|-----------|
-| [Credit Risk Scoring](https://github.com/shakeabhi7/credit_risk_score) | XGBoost, FastAPI, Docker | AUC 0.87 |
-| [Customer Lifetime Value](https://github.com/shakeabhi7/clv_project) | Random Forest, FastAPI | 70% time reduction |
+| [Credit Risk Scoring](https://github.com/shakeabhi7/clv_project) | XGBoost, FastAPI, Docker,MongoDB | AUC 0.87 |
+| [Customer Lifetime Value](https://github.com/shakeabhi7/credit_risk_score) | Random Forest, FastAPI, Streamlit,MongoDB | 70% time reduction |
 
 ## 🛠 Tech Stack
 
@@ -21,12 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
 ---
-📫 Connect: [LinkedIn] (www.linkedin.com/in/shakeabhi) | [Email](mailto:kumarabhishekt7@gmail.com)
-
-
-
-<!---
-shakeabhi7/shakeabhi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Connect: [LinkedIn](www.linkedin.com/in/shakeabhi) | [Email](mailto:kumarabhishekt7@gmail.com)
