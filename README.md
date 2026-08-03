@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek! 
 
 🔭 ML Engineer & Data Scientist | Building production-ready ML systems
-🛠 Stack: Python · XGBoost · FastAPI · Docker · MLflow · MongoDB
+🛠 Stack: Python · XGBoost · FastAPI · MLflow · MongoDB 
 📍 Delhi, India 
 
 ---
