@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek! 👋
+# Hi, I'm Abhishek! 
 
 🔭 ML Engineer & Data Scientist | Building production-ready ML systems
 🛠 Stack: Python · XGBoost · FastAPI · Docker · MLflow · MongoDB
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Tech | Highlight |
 |---------|------|-----------|
